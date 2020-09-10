@@ -8,6 +8,8 @@ tags: []
 feature_image: ''
 ---
 
+**In my spare time, I love photography. In this section you can see the photos I took. You are very welcome to communicate with me. **
+
 ![Boston Street |  Shot on iPhone X](/post/2020-09-10-gallery_files/IMG_2031.jpg){width=400px height=200px} 
 
 ![Home |   Shot on iPhone X](/post/2020-09-10-gallery_files/IMG_1991.jpeg){width=400px height=200px} 
