@@ -36,8 +36,8 @@ feature_image: ''
 
 ![Shot on iPhone X ](/post/2020-09-10-gallery_files/66569F0E-CE3F-4F8B-AC3F-68EA4FBBF07E-96BD5CCA-D667-4222-8AFD-2C347B7BE87C.jpg){width=400px height=200px} 
 
-![New York Soho | Shot on iPhone X ](/post/2020-09-10-gallery_files/IMG_6996.JPG){width=400px height=200px} 
+![New York SoHo | Shot on iPhone X ](/post/2020-09-10-gallery_files/IMG_6996.JPG){width=400px height=200px} 
 
 ![Boston | Shot on iPhone X ](/post/2020-09-10-gallery_files/IMG_2389.jpeg){width=400px height=200px} 
 
-![New York Soho | Shot on iPhone X ](/post/2020-09-10-gallery_files/IMG_6991.JPG){width=400px height=200px}
+![New York SoHo | Shot on iPhone X ](/post/2020-09-10-gallery_files/IMG_6991.JPG){width=400px height=200px}
