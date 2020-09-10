@@ -32,4 +32,6 @@ feature_image: ''
 
 ![Boston | Shot on iPhone X ](/post/2020-09-10-gallery_files/CA243966-5664-4958-998A-8521D10E8769-3C17BD82-282F-4795-8F29-397985F7624B.jpg){width=400px height=200px} 
 
-![Flower | Shot on iPhone X ](/post/2020-09-10-gallery_files/IMG_1070.jpg){width=400px height=200px}
+![Flower | Shot on iPhone X ](/post/2020-09-10-gallery_files/IMG_1070.jpg){width=400px height=200px} 
+
+![Shot on iPhone X ](/post/2020-09-10-gallery_files/66569F0E-CE3F-4F8B-AC3F-68EA4FBBF07E-96BD5CCA-D667-4222-8AFD-2C347B7BE87C.jpg){width=400px height=200px}
