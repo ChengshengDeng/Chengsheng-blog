@@ -1,37 +1,77 @@
 ---
-title: "Hello R Markdown"
-author: "Frida Gomam"
-date: 2015-07-23T21:13:14-05:00
-categories: ["R"]
-tags: ["R Markdown", "plot", "regression"]
+title: "Product Case Interview Questions I "
+author: "Chengsheng Deng"
+date: 2020-09-10
 ---
+Type of Metrics  
+(Acquisition, Activation, Retention, Referral, and Revenue) 
+User acquisition (用户注册率）
+How many users do you have ? 
+How and why has user base grown overtime? 
+How many active users are there? How do we define what an active user is ? 
+Where are users coming from? Are they referring their friends? 
+Which channels are the most effective in getting users
+ Activity （活跃度，或者称之为user engagement) 
+“How many users are using feature X?
+What percent have completed a particular workflow?
+What are people saying about the product? Do they love it? Can you measure that?”
+Conversion & retention  (留存率，即visitor 到注册账号） 
+“What is the conversion rate (free to paid, visiting to signing up, etc.)?
+What is the churn rate?”
+Money  
+“What is the customer acquisition cost?
+How much does supporting a customer cost?
+How much money does each user bring in (average revenue per user)?
+What is the lifetime value of a customer?
+What is our revenue growth rate?”  
+Measuring  
+Generally speaking, you should measure the change in a metric rather than the total volume.  
+Many of these metrics can and should be broken down by “cohorts.” These cohorts could be based on gender, location, date registered, or a variety of other factors. (其实就是要分组实验，可以根据性别，地理位置，等等因素来分组进行实验） 
+To actually get data, you have many options 
+Usability Testing: This generally won’t give you true metrics, but it can help you understand the why. Why are customers leaving your site at a certain point?
+Customer Feedback: Feedback can come in from social networks, customer support pages, or surveys. Like usability testing, this will generally be more powerful in offer context to understand metrics than in gathering numbers.
+Traffic Analysis: Tools such as Google Analytics can help companies understand how users are interacting with the website.
+Internal Logs: Logging information directly can help a company understand user behavior at a deeper level than simple traffic analysis.
+A/B Testing: A/B Testing can help a company understand the impact of a particular change by comparing the behavior of users who have a feature to those who don’t. While it is an incredibly useful tool, it can also be misapplied. For example, rolling out a new chat feature to only a small percentage of users might give you misleading data about usage patterns. After all, I can’t use chat if none of my friends are. (A/B test可以用来帮助理解变化所带来的影响）  
+————————
+Interview Questions 
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(collapse = TRUE)
-```
+Strategy Question 
+	Strategy questions include asking what a company’s strategy is or how to design a strategy. It’s important to think about a product’s strategy at two levels:（公司的策略是什么？/ 怎样设计方案 /怎么理解公司这一决策） 
+Micro: What is the business model for the product? What steps is the company pursuing to succeed on that model? Will customers want it?
+Macro: How does this product fit into the greater vision of the company? Will it open up new opportunities? Does it secure an existing market? 
+In discussing the micro- and macro- strategy, frameworks such as SWOT and the Five Forces might be particularly useful. Think about questions such as: 
+“What is the company’s mission? (公司的任务是什么?)
+What are the company’s goals? (公司的目标是什么）
+What are the company’s strengths? （公司的优势是什么）
+What are the company’s weaknesses? （公司的弱势是什么）
+How is the company leveraging its strengths or minimizing its weaknesses? （公司是怎样利用优势，减小弱势的）
+Thinking about these questions at the micro and macro level and then applying their actions to it could help you describe a company’s strategy
+Potential strategies for decisions could include:
+Diversifying revenue sources. (分散收入来源）A company might want to diversify revenue sources so drastic changes in the market or the emergence of a new competitor doesn’t tank the company. 
+Building Barriers to Entry: （增加门槛）Building barriers to entry helps keep new competitors out and, therefore, protect a company’s revenue. For example, Facebook’s ownership of the social network makes it difficult (though not impossible) to successfully compete in the event management tools space.
+Being the “One-Stop Shop for _: A company might want to expand their product suite around a particular area as a barrier to entry for competitors. For example, due to its breadth of products, Amazon is seen as the place you go to for purchasing anything. Companies that threaten this in some way by leading in a particular product area are acquisition targets for Amazon.
+Being the Low-Cost Leader: （降低成本）Being the cheapest will cut your profit margins, but it will also make the industry less attractive to current and potential competitors. Note that there’s a difference between actively trying to ensure your prices are the cheapest and being forced to cut your price to compete. The former is a pro-active.
 
-# R Markdown
+Example
+Facebook bought Instagram for about $1 billion, even though Instagram was making no money. Why do you think Facebook did this?
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+Answering this question does not require a strong knowledge of Instagram. That’s not what the interviewer cares about. A strong answer for someone who doesn’t know much about Instagram might look like the following:
+Hmm, interesting question. To be honest, I haven’t really used Instagram much, but I’m vaguely familiar with it. And I’m of course familiar with Facebook. Let me break this down by discussing the key components of the acquisition and then how those aligned with or threatened Facebook’s mission. Facebook’s mission is to connect people and help them share their lives. （Facebook的任务). This acquisition involved acquiring three things: the company (employees), the product, and the users. Let’s think about these with respect to Facebook. While I’m sure Instagram had some very talented employees, the company was still pretty small at that time. I can’t imagine that was a strong driver of the $1 billion acquisition. The product is a bit more interesting. Instagram created a beautiful photo-sharing product, and this was probably pretty scary to Facebook. Photo sharing is really vital to a company whose mission is helping people share their lives;(Instagram 对Facebook 的威胁竞争) it was a big draw of Facebook and a key strength. (Facebook 的优势）But another company was truly excelling there and basically beating Facebook (at least in certain aspects) at its own game. What happens when people start increasingly using Instagram instead of Facebook for photo sharing? It’s a big threat. The users are the other big part of the acquisition. As I recall, Instagram had a ton of users as of the acquisition and had essentially built its own social network. This is of course what Facebook is all about and, again, Instagram had succeeded there. What happens as their social network grows? Will other companies (particularly creative sites like Etsy) start integrating with Instagram instead of Facebook? The size of Facebook’s user base is the big barrier to entry for competitors, and every social network loosens Facebook’s grip a bit.(客户优势。facebook的收购使得大量的客户成为社交市场的壁垒，让其他竞争者没有办法进入这个社交市场).  Ultimately, it seems like what Facebook might have seen is this hot, young startup which had suddenly started excelling in two areas of strength for Facebook: photos and community. Facebook probably felt they couldn’t afford to risk those areas or even allow another major player there. Plus, there also may have been a fear of what Instagram might do next – or what might happen if, say, Google got their hands on Instagram instead. 
+Instagram 的两项优势: 1. 照片, 2. 群体 正好和Facebook重合。Facebook的收购是不想让自己在这个本一家独大的社交市场遭到瓜分，以及以防其他公司对Instagram进行收购。比如Google。 
+This candidate might have missed some aspects of the acquisition (such as an opportunity for Facebook to excel in mobile). That’s an understandable oversight for someone unfamiliar with Instagram or Facebook’s mobile strategy. Note how the candidate has structured her answer. She’s broken down the acquisition into its components, and then blended in some aspects of a SWOT analysis: strengths, weaknesses, and threats. This is one way the earlier frameworks might be applied.
+She then wrapped up her response with a clear, succinct conclusion. 
 
-You can embed an R code chunk like this:
+Sample Question: 
+1. Describe the strategy behind Google entering the cell phone market.
+2.Amazon has a number of independent websites that, in some ways, duplicate the functionality of Amazon: Zappos (shoes and clothing); Diapers.com (baby and kid needs); YoYo.com (kids’ toys); Look.com (kids’ clothing); Soap.com (toiletries); Casa.com (house products). What do you think their strategy is in maintaining so many different websites with such similar functionality? Do you agree or disagree with it?
+3. If you were Amazon, would you launch service in India? Why or why not? How would you do this?
+4. Amazon has ads on its website for products you can buy on other websites. What do you think is the strategy there? Is it a good idea?
+5. Do you think Apple should sell non-Apple products in its stores? Why or why not?
+6. If you were responsible for Microsoft phones, what would you do?
+7. Which Google products or services don’t make sense to you? Why?
+8. If you were CEO of Yahoo!, what would your strategy be?
+9. Imagine you’re starting up a new social networking service. What would your strategy be?” 
+10. Imagine you were considering launching two services which have similar revenues and costs.           	How would you decide which one to pursue
 
-```{r cars}
-summary(cars)
-fit <- lm(dist ~ speed, data = cars)
-fit
-```
 
-# Including Plots
-
-You can also embed plots. See Figure \@ref(fig:pie) for example:
-
-```{r pie, fig.cap='A fancy pie chart.', tidy=FALSE}
-par(mar = c(0, 1, 0, 1))
-pie(
-  c(280, 60, 20),
-  c('Sky', 'Sunny side of pyramid', 'Shady side of pyramid'),
-  col = c('#0292D8', '#F7EA39', '#C4B632'),
-  init.angle = -50, border = NA
-)
-```
