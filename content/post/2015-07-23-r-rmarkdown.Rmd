@@ -3,7 +3,7 @@ title: "Strategy Questions in Product Case "
 author: "Chengsheng Deng"
 date: "2020-09-10"
 ---
-![Boston Street. Shot on iPhone X](/post/2015-07-23-r-rmarkdown_files/IMG_2026.jpeg){width=400px height=200px}
+![Boston Street | Shot on iPhone X](/post/2015-07-23-r-rmarkdown_files/IMG_2026.jpeg){width=400px height=200px}
 
 ## Type of Metrics  
 (Acquisition, Activation, Retention, Referral, and Revenue) </br>
@@ -66,7 +66,7 @@ Potential strategies for decisions could include:</br>
 3. Being the “One-Stop Shop for _: A company might want to expand their product suite around a particular area as a barrier to entry for competitors. For example, due to its breadth of products, Amazon is seen as the place you go to for purchasing anything. Companies that threaten this in some way by leading in a particular product area are acquisition targets for Amazon.</br>
 4. Being the Low-Cost Leader: （降低成本）Being the cheapest will cut your profit margins, but it will also make the industry less attractive to current and potential competitors. Note that there’s a difference between actively trying to ensure your prices are the cheapest and being forced to cut your price to compete. The former is a pro-active.</br>
 
-![Boston Street.  Shot on iPhone X](/post/2015-07-23-r-rmarkdown_files/IMG_2223.jpeg){width=400px height=200px}
+![Boston Street  Shot on iPhone X](/post/2015-07-23-r-rmarkdown_files/IMG_2223.jpeg){width=400px height=200px}
 
 **Example**</br>
 Facebook bought Instagram for about $1 billion, even though Instagram was making no money. Why do you think Facebook did this?</br>
@@ -96,7 +96,7 @@ That’s an understandable oversight for someone unfamiliar with Instagram or Fa
 She’s broken down the acquisition into its components, and then blended in some aspects of a SWOT analysis: strengths, weaknesses, and threats. This is one way the earlier frameworks might be applied.
 She then wrapped up her response with a clear, succinct conclusion. 
 
-![Boston Street.  Shot on Samsung Note 10 Plus](/post/2015-07-23-r-rmarkdown_files/IMG_2185.JPG){width=400px height=100px}
+![Boston Street | Shot on Samsung Note 10 Plus](/post/2015-07-23-r-rmarkdown_files/IMG_2185.JPG){width=400px height=100px}
 
 **Sample Question:** </br>
 1. Describe the strategy behind Google entering the cell phone market.</br>
