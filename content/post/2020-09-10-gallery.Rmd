@@ -40,4 +40,5 @@ feature_image: ''
 
 ![Boston | Shot on iPhone X ](/post/2020-09-10-gallery_files/IMG_2389.jpeg){width=400px height=200px} 
 
+
 ![New York Soho | Shot on iPhone X ](/post/2020-09-10-gallery_files/IMG_6991.JPG){width=400px height=200px}
