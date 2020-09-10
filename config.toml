@@ -1,4 +1,4 @@
 theme = "hugo-casper3"
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "My Blog"
