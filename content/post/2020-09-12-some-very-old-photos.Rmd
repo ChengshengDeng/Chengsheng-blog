@@ -17,4 +17,8 @@ feature_image: ''
 
 ![New Yok 2018 | Shot on iPhone X ](/post/2020-09-12-some-very-old-photos_files/IMG_6856.jpg){width=600px height=300px}
 
+![Food | Shot on iPhone X ](/post/2020-09-12-some-very-old-photos_files/IMG_2906.JPG){width=600px height=300px} 
+
+![Food | Shot on iPhone X ](/post/2020-09-12-some-very-old-photos_files/IMG_0346.jpeg){width=600px height=300px}
+
 
