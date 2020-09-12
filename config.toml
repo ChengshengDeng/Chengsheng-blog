@@ -1,7 +1,7 @@
 theme = "hugo-casper3"
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My Blog"
+title = "Chengsheng's Blog"
 
 [params]
     title = "Chengsheng's Blog"
@@ -17,3 +17,10 @@ title = "My Blog"
         icon = "fa-twitter" 
         url = "https://twitter.com/KingDylanDeng"
         title = "Twitter"  
+        
+[[params.social.list]]
+        class = "fab"
+        icon = "fa-github"
+        url = "https://github.com/ChengshengDeng"
+        title = "GitHub" 
+        
