@@ -22,18 +22,26 @@ Launching products is one of the most important duties of a PM, so it makes sens
     </item>
     
     <item>
-      <title>Gallery</title>
-      <link>/post/gallery/</link>
+      <title>Marketing Questions in Product Case</title>
+      <link>/post/marketing-questions-in-product-case/</link>
       <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/gallery/</guid>
-      <description>In my spare time, I love photography. In this section you can see the photos I took. You are very welcome to communicate with me. 
-Boston Street | Shot on iPhone X
- Home | Shot on iPhone X
- Boston University | Shot on iPhone X
- Boston Harbor | Shot on Samsung Note 10 Plus
- Green Line | Shot on iPhone X
- Home | Shot on iPhone X</description>
+      <guid>/post/marketing-questions-in-product-case/</guid>
+      <description>Marketing questions are about product positioning, customers, and handling competition.  
+Approach:  Understand the Company: What are the company’s goals? What is its mission? What are its strengths and weaknesses? What threatens it? 
+ Understand the Competition: Break down the competition into segments. Who competes and in what market?(竞争对手是谁) How do they position themselves? How entrenched are they?(怎么巩固自己的位置) What are their strengths and weaknesses? 
+ Understand the Customers: Who are your customers?</description>
+    </item>
+    
+    <item>
+      <title>Strategy Questions in Product Case </title>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <description>Boston Street | Shot on iPhone X
+ Type of Metrics (Acquisition, Activation, Retention, Referral, and Revenue) 
+User acquisition (用户注册率） How many users do you have ?  How and why has user base grown overtime?  How many active users are there? How do we define what an active user is ?  Where are users coming from? Are they referring their friends?  Which channels are the most effective in getting users</description>
     </item>
     
   </channel>
