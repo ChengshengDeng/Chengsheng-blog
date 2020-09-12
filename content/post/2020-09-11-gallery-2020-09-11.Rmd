@@ -8,7 +8,7 @@ tags: []
 feature_image: ''
 --- 
 
-**Following are the photos I took on 2020-09-11. Enjoy Them!** 
+**Following are the photos I took on 2020-09-11 in Boston. I love black and white. Enjoy Them!** 
 
 ![North Station | Shot on iPhone X ](/post/2020-09-11-gallery-2020-09-11_files/IMG_2550.jpeg){width=500px height=300px} 
 
@@ -18,6 +18,6 @@ feature_image: ''
 
 ![Boston Harbor | Shot on iPhone X ](/post/2020-09-11-gallery-2020-09-11_files/IMG_2568.jpeg){width=500px height=300px} 
 
-![Boston Harbor | Shot on iPhone X ](/post/2020-09-11-gallery-2020-09-11_files/IMG_2604.jpeg){width=500px height=300px}
+![Water Sprinkler | Shot on iPhone X ](/post/2020-09-11-gallery-2020-09-11_files/IMG_2604.jpeg){width=500px height=300px}
 
 
