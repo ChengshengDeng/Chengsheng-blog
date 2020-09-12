@@ -42,7 +42,7 @@ feature_image: ''
 
 ![Boston | Shot on iPhone X ](/post/2020-09-10-gallery_files/IMG_2389.jpeg){width=600px height=300px} 
 
-![New York SoHo | Shot on iPhone X ](/post/2020-09-10-gallery_files/IMG_6991.JPG){width=400px height=200px} New York SoHo | Shot on iPhone X 
+![New York SoHo | Shot on iPhone X ](/post/2020-09-10-gallery_files/IMG_6991.JPG){width=600px height=300px} New York SoHo | Shot on iPhone X 
 
-![New York SoHo | Shot on  iPhone X ](/post/2020-09-10-gallery_files/IMG_6997.jpg){width=400px height=200px} 
+![New York SoHo | Shot on  iPhone X ](/post/2020-09-10-gallery_files/IMG_6997.jpg){width=600px height=300px} 
 
