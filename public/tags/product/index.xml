@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Product on Chengsheng&#39;s Blog</title>
+    <link>/tags/product/</link>
+    <description>Recent content in Product on Chengsheng&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/product/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Launching Questions in Product Sense </title>
+      <link>/post/launching-questions-in-product-sense/</link>
+      <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/launching-questions-in-product-sense/</guid>
+      <description>Launching Question
+Launching products is one of the most important duties of a PM, so it makes sense that interviewers would ask how you would do this. Approach The Product: Discuss the vision of the product, along with its strengths, weaknesses, and risks. What does the product ultimately hope to achieve? What is its target market? What are the things that would worry you? Who is it competing against and how is it positioned against those?</description>
+    </item>
+    
+    <item>
+      <title>Gallery</title>
+      <link>/post/gallery/</link>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/gallery/</guid>
+      <description>In my spare time, I love photography. In this section you can see the photos I took. You are very welcome to communicate with me. 
+Boston Street | Shot on iPhone X
+ Home | Shot on iPhone X
+ Boston University | Shot on iPhone X
+ Boston Harbor | Shot on Samsung Note 10 Plus
+ Green Line | Shot on iPhone X
+ Home | Shot on iPhone X</description>
+    </item>
+    
+  </channel>
+</rss>
