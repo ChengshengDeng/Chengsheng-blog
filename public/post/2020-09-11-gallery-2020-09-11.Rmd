@@ -4,7 +4,8 @@ author: Chengsheng Deng
 date: '2020-09-11'
 slug: gallery-2020-09-11
 categories: []
-tags: []
+tags: 
+  - Photography
 feature_image: ''
 --- 
 
