@@ -2,3 +2,18 @@ theme = "hugo-casper3"
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "My Blog"
+
+[params]
+    title = "Chengsheng's Blog"
+    author = "Chengsheng Deng"
+    description = "Love Data, Tech, Photography and a diehard Laker's fan"
+    copyright = ""
+    copyright_link = "" 
+    
+[params.social]
+        title = "Links"
+ [[params.social.list]]
+        class = "fab" 
+        icon = "fa-twitter" 
+        url = "https://twitter.com/KingDylanDeng"
+        title = "Twitter"  
