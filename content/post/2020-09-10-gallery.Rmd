@@ -10,37 +10,37 @@ feature_image: ''
 
 **In my spare time, I love photography. In this section you can see the photos I took. You are very welcome to communicate with me. **
 
-![Boston Street |  Shot on iPhone X](/post/2020-09-10-gallery_files/IMG_2031.jpg){width=400px height=200px} 
+![Boston Street |  Shot on iPhone X](/post/2020-09-10-gallery_files/IMG_2031.jpg){width=600px height=300px} 
 
-![Home |   Shot on iPhone X](/post/2020-09-10-gallery_files/IMG_1991.jpeg){width=400px height=200px} 
+![Home |   Shot on iPhone X](/post/2020-09-10-gallery_files/IMG_1991.jpeg){width=600px height=300px} 
 
-![Boston University | Shot on iPhone X ](/post/2020-09-10-gallery_files/IMG_1653.jpg){width=400px height=200px}
+![Boston University | Shot on iPhone X ](/post/2020-09-10-gallery_files/IMG_1653.jpg){width=600px height=300px}
 
-![Boston Harbor | Shot on Samsung Note 10 Plus](/post/2020-09-10-gallery_files/IMG_1554.JPG){width=400px height=200px} 
+![Boston Harbor | Shot on Samsung Note 10 Plus](/post/2020-09-10-gallery_files/IMG_1554.JPG){width=600px height=300px} 
 
-![Green Line | Shot on iPhone X](/post/2020-09-10-gallery_files/5D92EBF3-4CDA-4E2F-B969-C86F22285335-C946B0E4-F46D-431E-B9F8-CBD8B538BA98.jpg){width=400px height=200px} 
+![Green Line | Shot on iPhone X](/post/2020-09-10-gallery_files/5D92EBF3-4CDA-4E2F-B969-C86F22285335-C946B0E4-F46D-431E-B9F8-CBD8B538BA98.jpg){width=600px height=300px} 
 
-![Home |  Shot on iPhone X ](/post/2020-09-10-gallery_files/IMG_2238.jpeg){width=400px height=200px} 
+![Home |  Shot on iPhone X ](/post/2020-09-10-gallery_files/IMG_2238.jpeg){width=600px height=300px} 
 
-![Boston Street  | Shot on iPhone X ](/post/2020-09-10-gallery_files/IMG_2135.jpeg){width=400px height=200px} 
+![Boston Street  | Shot on iPhone X ](/post/2020-09-10-gallery_files/IMG_2135.jpeg){width=600px height=300px} 
 
-![Boston Street  | Shot on iPhone X ](/post/2020-09-10-gallery_files/IMG_2078.jpeg){width=400px height=200px} 
+![Boston Street  | Shot on iPhone X ](/post/2020-09-10-gallery_files/IMG_2078.jpeg){width=600px height=300px} 
 
-![Boston | Shot on iPhone X](/post/2020-09-10-gallery_files/IMG_0917.jpeg){width=400px height=200px}
+![Boston | Shot on iPhone X](/post/2020-09-10-gallery_files/IMG_0917.jpeg){width=600px height=300px}
 
-![Boston | Shot on iPhone X ](/post/2020-09-10-gallery_files/IMG_2111.jpeg){width=400px height=200px} 
+![Boston | Shot on iPhone X ](/post/2020-09-10-gallery_files/IMG_2111.jpeg){width=600px height=300px} 
 
-![Home | Shot on iPhone X ](/post/2020-09-10-gallery_files/IMG_2089.jpeg){width=400px height=200px} 
+![Home | Shot on iPhone X ](/post/2020-09-10-gallery_files/IMG_2089.jpeg){width=600px height=300px} 
 
-![Boston | Shot on iPhone X ](/post/2020-09-10-gallery_files/CA243966-5664-4958-998A-8521D10E8769-3C17BD82-282F-4795-8F29-397985F7624B.jpg){width=400px height=200px} 
+![Boston | Shot on iPhone X ](/post/2020-09-10-gallery_files/CA243966-5664-4958-998A-8521D10E8769-3C17BD82-282F-4795-8F29-397985F7624B.jpg){width=600px height=300px} 
 
-![Flower | Shot on iPhone X ](/post/2020-09-10-gallery_files/IMG_1070.jpg){width=400px height=200px} 
+![Flower | Shot on iPhone X ](/post/2020-09-10-gallery_files/IMG_1070.jpg){width=600px height=300px} 
 
-![Shot on iPhone X ](/post/2020-09-10-gallery_files/66569F0E-CE3F-4F8B-AC3F-68EA4FBBF07E-96BD5CCA-D667-4222-8AFD-2C347B7BE87C.jpg){width=400px height=200px} 
+![Shot on iPhone X ](/post/2020-09-10-gallery_files/66569F0E-CE3F-4F8B-AC3F-68EA4FBBF07E-96BD5CCA-D667-4222-8AFD-2C347B7BE87C.jpg){width=600px height=300px} 
 
-![New York SoHo | Shot on iPhone X ](/post/2020-09-10-gallery_files/IMG_6996.JPG){width=400px height=200px} 
+![New York SoHo | Shot on iPhone X ](/post/2020-09-10-gallery_files/IMG_6996.JPG){width=600px height=300px} 
 
-![Boston | Shot on iPhone X ](/post/2020-09-10-gallery_files/IMG_2389.jpeg){width=400px height=200px} 
+![Boston | Shot on iPhone X ](/post/2020-09-10-gallery_files/IMG_2389.jpeg){width=600px height=300px} 
 
 ![New York SoHo | Shot on iPhone X ](/post/2020-09-10-gallery_files/IMG_6991.JPG){width=400px height=200px} New York SoHo | Shot on iPhone X 
 
