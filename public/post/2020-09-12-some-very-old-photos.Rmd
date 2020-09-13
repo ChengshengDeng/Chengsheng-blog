@@ -20,6 +20,8 @@ feature_image: ''
 
 ![Food | Shot on iPhone X ](/post/2020-09-12-some-very-old-photos_files/IMG_2906.JPG){width=600px height=300px} 
 
-![Food | Shot on iPhone X ](/post/2020-09-12-some-very-old-photos_files/IMG_0346.jpeg){width=600px height=300px} 
+![Food | Shot on iPhone X ](/post/2020-09-12-some-very-old-photos_files/IMG_0346.jpeg){width=600px height=300px}  
+
+![Boston Street | Shot on iPhone X ](/post/2020-09-12-some-very-old-photos_files/IMG_2661.JPG){width=600px height=300px}
 
 
