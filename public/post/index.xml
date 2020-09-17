@@ -6,10 +6,22 @@
     <description>Recent content in Posts on Chengsheng&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Define Yourself </title>
+      <link>/post/define-yourself/</link>
+      <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/define-yourself/</guid>
+      <description>Tell Me a Bit About Yourself   This is an opportunity to connect your experience with the job you’ re interviewing for 
+ This is not a time to just read off your resume or blab about your personal life 
+ Pick out a few of the key things you ‘d like your interviewer to know about you. 
+  Example Answer  Interviewer: Tell me a bit about yourself</description>
+    </item>
     
     <item>
       <title>Launching Questions in Product Case </title>
