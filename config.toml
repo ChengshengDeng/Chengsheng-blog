@@ -1,5 +1,5 @@
 theme = "hugo-casper3"
-baseURL = "http://example.org/"
+baseURL = "https://chengshengblog.netlify.app/"
 languageCode = "en-us"
 title = "Chengsheng's Blog" 
 googleAnalytics = "UA-178433381-2"
