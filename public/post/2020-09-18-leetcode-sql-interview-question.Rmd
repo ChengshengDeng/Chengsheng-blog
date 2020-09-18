@@ -1,0 +1,44 @@
+---
+title: 'Leetcode SQL Interview Question '
+author: Chengsheng Deng
+date: '2020-09-18'
+slug: leetcode-sql-interview-question
+categories: []
+tags:
+  - SQL
+feature_image: ''
+---
+
+## RANK() & Window Function  </br> 
+
+### 178
+
+Write a SQL query to rank scores. If there is a tie between two scores, both should have the same ranking. Note that after a tie, the next ranking number should be the next consecutive integer value. In other words, there should be no "holes" between ranks. </br> 
+
++----+-------+</br>
+| Id | Score |</br>
++----+-------+</br>
+| 1  | 3.50  |</br>
+| 2  | 3.65  |</br>
+| 3  | 4.00  |</br>
+| 4  | 3.85  |</br>
+| 5  | 4.00  |</br>
+| 6  | 3.65  |</br>
++----+-------+</br>
+
+For example, given the above Scores table, your query should generate the following report (order by highest score): </br> 
+
++-------+---------+ </br>
+| score | Rank    | </br>
++-------+---------+ </br>
+| 4.00  | 1       | </br>
+| 4.00  | 1       | </br>
+| 3.85  | 2       | </br>
+| 3.65  | 3       | </br>
+| 3.65  | 3       | </br>
+| 3.50  | 4       | </br>
++-------+---------+ </br>
+
+Important Note: For MySQL solutions, to escape reserved words used as column names, you can use an apostrophe before and after the keyword. For example 'Rank'.</br> 
+
+*Answer* : 

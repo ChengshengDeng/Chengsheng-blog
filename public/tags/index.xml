@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Chengsheng&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SQL</title>
+      <link>/tags/sql/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/sql/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Product</title>

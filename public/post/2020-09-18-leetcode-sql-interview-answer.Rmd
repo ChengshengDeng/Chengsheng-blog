@@ -1,0 +1,18 @@
+---
+title: 'Leetcode SQL Interview Answer '
+author: Chengsheng Deng
+date: '2020-09-18'
+slug: leetcode-sql-interview-answer
+categories: []
+tags:
+  - SQL
+feature_image: ''
+---
+
+**178 Medium** 
+
+SELECT Score, </br>
+DENSE_RANK() OVER(ORDER BY Score DESC) 'Rank' </br>
+FROM Scores  </br> 
+
+* Please know the difference between `DENSE_RANK()` and `RANK()`
