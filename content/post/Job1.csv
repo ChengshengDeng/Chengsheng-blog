@@ -40,7 +40,7 @@ Date,Job Title ,CompanyName,Location ,Intern/Full Time,Where,Result
 9.2.2020,Data Science Program Manager,Experfy,West borough MA,Full Time,Handshake,
 9.2.2020,Business Analyst,Bainbridge,"San Diego, CA",Internship,Handshake,
 9.3.2020,Commercial Data Analyst,Covance,"Boston, MA",Full Time,Linkedin,
-9.7.2020,Product Analyst,Rocketbook,"Boston, MA",Full Time,Handshake ,
+9.7.2020,Product Analyst,Rocketbook,"Boston, MA",Full Time,Handshake ,Rejection
 9.7.2020,Business Analyst,National Software Management,"Boston, MA",Full Time,LinkedIn ,
 9.7.2020,"Analyst, Product Research ",Liberty Mutual ,"Boston, MA",Full Time,Indeed ,
 9.7.2020,Business Analyst,Wellington Management,"Boston, MA",Full Time,Zip Recruiter,
@@ -51,7 +51,13 @@ Date,Job Title ,CompanyName,Location ,Intern/Full Time,Where,Result
 9.13.2020,Data Analyst,Ebay,"NewYork, NY",Intern,Handshake,
 9.13.2020,Data Analyst,Fund for Public Health,"NewYork, NY",Full Time,LinkedIn ,
 9.13.2020,Data Analyst,Behaviours,"New York, NY ",Full Time,LinkedIn,
-9.13.2020,Data Scientist,Kroll Bond Rating Agency,"New York , NY ",Full Time,LinkedIn,
+9.13.2020,Data Scientist,Kroll Bond Rating Agency,"New York , NY ",Full Time,LinkedIn,Rejection
 9.13.2020,Product Analyst,CarGurus,"Cambridge, MA",Full Time,Indeed,
 9.13.2020,Data Analyst,The Atlantic Group ,"Boston, MA",Full Time,Indeed,
 9.13.2020,Data Analyst,PA Consulting Group ,"Boston, MA",Full Time,Indeed ,
+9.18.2020,Data Analyst,Chairish,"San Francisco, CA",Full Time,Handshake,
+9.18.2020,Data Analyst,B&W Tek,"Newark, DE",Full Time,Handshake,
+9.18.2020,Data Analyst,OCBang,"Santa Clara, CA",Internship,Handshake,
+9.18.2020,Data Analyst,American Acceptance LLC,Spartanburg SC,Full Time,Handshake,
+9.18.2020,Data Analyst,Scar LLC,Boston MA,Internship,Handshake,
+9.18.2020,Financial Data Analyst,Suntek Systems Inc ,"Irvine, CA",Full Time,Handshake,

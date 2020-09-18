@@ -9,8 +9,11 @@ tags:
 feature_image: ''
 ---
 
-```{r echo = FALSE, warning=FALSE,results='asis'}
+**In this section, I conclude jobs I applied including time,location, company name, and result. This shows my journey to find a job. Please enjoy!**
+
+```{r echo = FALSE, warning=FALSE,layout = "l-body-outset"}
 library('knitr')
-df = read.csv('job1.csv')
-kable(df,caption = 'Job Hunting Results')
+library(rmarkdown)
+df = read.csv('Job1.csv')
+kable(df)
 ```

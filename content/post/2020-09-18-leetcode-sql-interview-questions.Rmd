@@ -1,0 +1,19 @@
+---
+title: Leetcode SQL Interview Questions Conclusion
+author: Chengsheng Deng
+date: '2020-09-18'
+slug: leetcode-sql-interview-questions
+categories: []
+tags:
+  - SQL
+feature_image: ''
+--- 
+
+**In this section, I conclude the date,times,problems, and key points for the Leetcode SQL problems.It shows my journey to struggle with SQL. Please enjoy visiting!**
+
+```{r echo = FALSE, warning=FALSE,layout = "l-body-outset"}
+library('knitr')
+library(rmarkdown)
+df = read.csv('LeetCode-SQL.csv')
+kable(df)
+```
