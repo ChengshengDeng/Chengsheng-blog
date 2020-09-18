@@ -16,7 +16,7 @@ feature_image: ''
 
 ![New York 2018 | Shot on iPhone X ](/post/2020-09-12-some-very-old-photos_files/66569F0E-CE3F-4F8B-AC3F-68EA4FBBF07E-96BD5CCA-D667-4222-8AFD-2C347B7BE87C 2.jpg){width=600px height=300px} 
 
-![New Yok 2018 | Shot on iPhone X ](/post/2020-09-12-some-very-old-photos_files/IMG_6856.jpg){width=600px height=300px}
+![New York 2018 | Shot on iPhone X ](/post/2020-09-12-some-very-old-photos_files/IMG_6856.jpg){width=600px height=300px}
 
 ![Food | Shot on iPhone X ](/post/2020-09-12-some-very-old-photos_files/IMG_2906.JPG){width=600px height=300px} 
 
