@@ -17,4 +17,19 @@ SELECT Score, </br>
 DENSE_RANK() OVER(ORDER BY Score DESC) 'Rank' </br>
 FROM Scores  </br> 
 
-* Please know the difference between `DENSE_RANK()` and `RANK()`
+* Please know the difference between `DENSE_RANK()` and `RANK()` 
+
+**177 Nth Highest Salary** 
+
+* Level: Medium </br>
+
+CREATE FUNCTION getNthHighestSalary(N INT) RETURNS INT </br>
+BEGIN </br>
+  RETURN ( </br>
+      SELECT DISTINCT a.Salary FROM (SELECT Salary, DENSE_RANK() OVER(ORDER BY Salary DESC) rnk FROM Employee) a </br>
+      WHERE a.rnk = n </br>
+  ); </br>
+END 
+
+* We use subquery here to get the rank of the salary with the decreasing order first. </br> 
+* Then we select the `distinct` salary with the `WHERE` clause to filter the Nth rank  because we want the Nth highest salary. That would be a unique value. </br>  

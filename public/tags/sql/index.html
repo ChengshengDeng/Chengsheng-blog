@@ -73,9 +73,10 @@
                 </header>
     
                 <section class="post-card-excerpt">
-                    <p> 178 Rank Scores
+                    <p>178 Rank Scores
  Level: Medium  SELECT Score,  DENSE_RANK() OVER(ORDER BY Score DESC) ‘Rank’  FROM Scores 
- Please know the difference between DENSE_RANK() and RANK()  </p>
+ Please know the difference between DENSE_RANK() and RANK()  177 Nth Highest Salary
+ Level: Medium   CREATE FUNCTION getNthHighestSalary(N INT) RETURNS INT  BEGIN  RETURN (  SELECT DISTINCT a.Salary FROM (SELECT Salary, DENSE_RANK() OVER(ORDER BY Salary DESC) rnk FROM Employee) a  WHERE a.rnk = n  );  END</p>
                 </section>
     
             </a>
