@@ -18,7 +18,7 @@
       
       <guid>/post/leetcode-sql-interview-answer/</guid>
       <description> 178 Rank Scores
- Level: Difficulty  SELECT Score,  DENSE_RANK() OVER(ORDER BY Score DESC) ‘Rank’  FROM Scores 
+ Level: Medium  SELECT Score,  DENSE_RANK() OVER(ORDER BY Score DESC) ‘Rank’  FROM Scores 
  Please know the difference between DENSE_RANK() and RANK()  </description>
     </item>
     

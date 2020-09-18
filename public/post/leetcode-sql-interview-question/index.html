@@ -79,7 +79,7 @@
                             
                             <div class="byline-meta-content">
                                 <time class="byline-meta-date" datetime="2020-129-09">18 September 2020</time>
-                                <span class="byline-reading-time"><span class="bull">&bull;</span> 1 min read</span>
+                                <span class="byline-reading-time"><span class="bull">&bull;</span> 2 min read</span>
                             </div>
                         </section>
 
@@ -126,6 +126,27 @@
 | 3.50 | 4 | </br>
 +——-+———+ </br></p>
 <p>Important Note: For MySQL solutions, to escape reserved words used as column names, you can use an apostrophe before and after the keyword. For example ‘Rank’.</br></p>
+<p><em>Answer</em> : <a href="https://chengshengblog.netlify.app/post/leetcode-sql-interview-answer/" class="uri">https://chengshengblog.netlify.app/post/leetcode-sql-interview-answer/</a></p>
+</div>
+<div id="nth-highest-salary" class="section level4">
+<h4>177 Nth Highest Salary </br></h4>
+<ul>
+<li>Level: Medium </br></li>
+</ul>
+<p>Write a SQL query to get the nth highest salary from the Employee table. </br></p>
+<p>+—-+——–+ </br>
+| Id | Salary | </br>
++—-+——–+ </br>
+| 1 | 100 | </br>
+| 2 | 200 | </br>
+| 3 | 300 | </br>
++—-+——–+ </br></p>
+<p>For example, given the above Employee table, the nth highest salary where n = 2 is 200. If there is no nth highest salary, then the query should return null. </br></p>
+<p>+————————+ </br>
+| getNthHighestSalary(2) | </br>
++————————+ </br>
+| 200 | </br>
++————————+ </br></p>
 <p><em>Answer</em> : <a href="https://chengshengblog.netlify.app/post/leetcode-sql-interview-answer/" class="uri">https://chengshengblog.netlify.app/post/leetcode-sql-interview-answer/</a></p>
 </div>
 </div>
@@ -219,7 +240,7 @@
     
                 <section class="post-card-excerpt">
                     <p> 178 Rank Scores
- Level: Difficulty  SELECT Score,  DENSE_RANK() OVER(ORDER BY Score DESC) ‘Rank’  FROM Scores 
+ Level: Medium  SELECT Score,  DENSE_RANK() OVER(ORDER BY Score DESC) ‘Rank’  FROM Scores 
  Please know the difference between DENSE_RANK() and RANK()  </p>
                 </section>
     

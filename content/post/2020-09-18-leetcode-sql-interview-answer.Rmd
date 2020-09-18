@@ -11,7 +11,7 @@ feature_image: ''
 
 **178 Rank Scores** 
 
-* Level: Difficulty
+* Level: Medium
 
 SELECT Score, </br>
 DENSE_RANK() OVER(ORDER BY Score DESC) 'Rank' </br>
