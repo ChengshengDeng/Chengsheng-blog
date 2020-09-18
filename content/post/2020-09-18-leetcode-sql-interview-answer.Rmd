@@ -9,7 +9,9 @@ tags:
 feature_image: ''
 ---
 
-**178 Medium** 
+**178 Rank Scores** 
+
+* Level: Difficulty
 
 SELECT Score, </br>
 DENSE_RANK() OVER(ORDER BY Score DESC) 'Rank' </br>
