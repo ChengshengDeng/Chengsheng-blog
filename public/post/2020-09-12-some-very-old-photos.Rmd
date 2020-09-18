@@ -28,6 +28,8 @@ feature_image: ''
 
 ![Boston | Shot on iPhone X](/post/2020-09-12-some-very-old-photos_files/IMG_2643 2.jpg){width=600px height=300px} 
 
-![Boston | Shot on iPhone X ](/post/2020-09-12-some-very-old-photos_files/IMG_2762.JPG){width=600px height=300px}
+![Boston | Shot on iPhone X ](/post/2020-09-12-some-very-old-photos_files/IMG_2762.JPG){width=600px height=300px} 
+
+![Boston | Shot on iPhone X ](/post/2020-09-12-some-very-old-photos_files/IMG_2750.JPG){width=600px height=300px}
 
 
