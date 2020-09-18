@@ -1,0 +1,16 @@
+---
+title: 'Job Hunting '
+author: Chengsheng Deng
+date: '2020-09-18'
+slug: job-hunting
+categories: []
+tags:
+  - Job
+feature_image: ''
+---
+
+```{r echo = FALSE, warning=FALSE,results='asis'}
+library('knitr')
+df = read.csv('job1.csv')
+kable(df,caption = 'Job Hunting Results')
+```

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Job on Chengsheng&#39;s Blog</title>
+    <link>/tags/job/</link>
+    <description>Recent content in Job on Chengsheng&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/job/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Job Hunting </title>
+      <link>/post/job-hunting/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/job-hunting/</guid>
+      <description>Table 1: Job Hunting Results  Date Job.Title CompanyName Location Intern.Full.Time Where Result    7.30.2020 Data Analyst Tripalink LA Full Time Handshake   7.30.2020 Data Analyst DesignMuseum Boston, Remote Intern Handshake   7.30.2020 Data Analyst MilkCrate LLC Philadelphia Intern Handshake   7.30.2020 Business Analyst Immunitas,Therapeutics Cambridge Remote Intern Handshake   7.30.2020 Data Analyst BrainCo Inc Somerville, MA Intern Handshake   7.30.2020 Data Analyst Kharon LA Full Time Handshake   7.</description>
+    </item>
+    
+  </channel>
+</rss>
