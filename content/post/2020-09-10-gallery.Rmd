@@ -17,7 +17,7 @@ feature_image: ''
 
 ![Boston University |  Shot on iPhone X ](/post/2020-09-10-gallery_files/IMG_1653.jpg){width=600px height=300px}
 
-![Boston Harbor |  Shot on Samsung Note 10 Plus](/post/2020-09-10-gallery_files/IMG_1554.JPG){width=600px height=300px} 
+![Boston Harbor | Shot on Samsung Note 10 Plus](/post/2020-09-10-gallery_files/IMG_1554.JPG){width=600px height=300px} 
 
 ![Green Line |  Shot on iPhone X](/post/2020-09-10-gallery_files/5D92EBF3-4CDA-4E2F-B969-C86F22285335-C946B0E4-F46D-431E-B9F8-CBD8B538BA98.jpg){width=600px height=300px} 
 

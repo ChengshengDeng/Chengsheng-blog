@@ -10,26 +10,26 @@ feature_image: ''
 ---
 **In this section, I will post some aged photos. Enjoy them** 
 
-![Food | Shot on iPhone X ](/post/2020-09-12-some-very-old-photos_files/IMG_0745.jpeg){width=600px height=300px} 
+![Food |  Shot on iPhone X ](/post/2020-09-12-some-very-old-photos_files/IMG_0745.jpeg){width=600px height=300px} 
 
-![New Yok 2018 | Shot on iPhone X ](/post/2020-09-12-some-very-old-photos_files/IMG_6989.JPG){width=600px height=300px}  
+![New Yok 2018 |  Shot on iPhone X ](/post/2020-09-12-some-very-old-photos_files/IMG_6989.JPG){width=600px height=300px}  
 
-![New York 2018 | Shot on iPhone X ](/post/2020-09-12-some-very-old-photos_files/66569F0E-CE3F-4F8B-AC3F-68EA4FBBF07E-96BD5CCA-D667-4222-8AFD-2C347B7BE87C 2.jpg){width=600px height=300px} 
+![New York 2018 |  Shot on iPhone X ](/post/2020-09-12-some-very-old-photos_files/66569F0E-CE3F-4F8B-AC3F-68EA4FBBF07E-96BD5CCA-D667-4222-8AFD-2C347B7BE87C 2.jpg){width=600px height=300px} 
 
-![New York 2018 | Shot on iPhone X ](/post/2020-09-12-some-very-old-photos_files/IMG_6856.jpg){width=600px height=300px}
+![New York 2018 |  Shot on iPhone X ](/post/2020-09-12-some-very-old-photos_files/IMG_6856.jpg){width=600px height=300px}
 
-![Food | Shot on iPhone X ](/post/2020-09-12-some-very-old-photos_files/IMG_2906.JPG){width=600px height=300px} 
+![Food |  Shot on iPhone X ](/post/2020-09-12-some-very-old-photos_files/IMG_2906.JPG){width=600px height=300px} 
 
-![Food | Shot on iPhone X ](/post/2020-09-12-some-very-old-photos_files/IMG_0346.jpeg){width=600px height=300px}  
+![Food |  Shot on iPhone X ](/post/2020-09-12-some-very-old-photos_files/IMG_0346.jpeg){width=600px height=300px}  
 
-![Boston Street | Shot on iPhone X ](/post/2020-09-12-some-very-old-photos_files/IMG_2661.JPG){width=600px height=300px} 
+![Boston Street |  Shot on iPhone X ](/post/2020-09-12-some-very-old-photos_files/IMG_2661.JPG){width=600px height=300px} 
 
-![New York | Shot on iPhone X ](/post/2020-09-12-some-very-old-photos_files/IMG_2707.JPG){width=600px height=300px}
+![New York |  Shot on iPhone X ](/post/2020-09-12-some-very-old-photos_files/IMG_2707.JPG){width=600px height=300px}
 
-![Boston | Shot on iPhone X](/post/2020-09-12-some-very-old-photos_files/IMG_2643 2.jpg){width=600px height=300px} 
+![Boston |  Shot on iPhone X](/post/2020-09-12-some-very-old-photos_files/IMG_2643 2.jpg){width=600px height=300px} 
 
-![Boston | Shot on iPhone X ](/post/2020-09-12-some-very-old-photos_files/IMG_2762.JPG){width=600px height=300px} 
+![Boston |  Shot on iPhone X ](/post/2020-09-12-some-very-old-photos_files/IMG_2762.JPG){width=600px height=300px} 
 
-![Boston | Shot on iPhone X ](/post/2020-09-12-some-very-old-photos_files/IMG_2750.JPG){width=600px height=300px}
+![Boston |  Shot on iPhone X ](/post/2020-09-12-some-very-old-photos_files/IMG_2750.JPG){width=600px height=300px}
 
 
