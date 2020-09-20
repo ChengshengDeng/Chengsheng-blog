@@ -4,7 +4,27 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-09-18T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/photography/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/shot-at-2020-09-19/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -33,17 +53,7 @@
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2020-09-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/sql/</loc>
-    <lastmod>2020-09-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-09-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -59,11 +69,6 @@
   
   <url>
     <loc>/post/launching-questions-in-product-sense/</loc>
-    <lastmod>2020-09-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/photography/</loc>
     <lastmod>2020-09-12T00:00:00+00:00</lastmod>
   </url>
   
