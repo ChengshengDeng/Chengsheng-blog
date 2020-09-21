@@ -69,6 +69,43 @@ For example, given the above Employee table, the nth highest salary where n = 2 
 | 200                    | </br> 
 +------------------------+ </br>  
 
-*Answer* : https://chengshengblog.netlify.app/post/leetcode-sql-interview-answer/  
+*Answer* : https://chengshengblog.netlify.app/post/leetcode-sql-interview-answer/   </br> 
 
+#### 184 Department Highest Salary  </br>
 
+The Employee table holds all employees. Every employee has an Id, a salary, and there is also a column for the department Id. </br>
+
++----+-------+--------+--------------+ </br>
+| Id | Name  | Salary | DepartmentId | </br>
++----+-------+--------+--------------+ </br>
+| 1  | Joe   | 70000  | 1            | </br>
+| 2  | Jim   | 90000  | 1            | </br>
+| 3  | Henry | 80000  | 2            | </br>
+| 4  | Sam   | 60000  | 2            | </br>
+| 5  | Max   | 90000  | 1            | </br>
++----+-------+--------+--------------+ </br>
+
+The Department table holds all departments of the company. </br>
+
++----+----------+ </br>
+| Id | Name     | </br>
++----+----------+ </br>
+| 1  | IT       | </br>
+| 2  | Sales    | </br>
++----+----------+ </br> 
+
+Write a SQL query to find employees who have the highest salary in each of the departments. For the above tables, your SQL query should return the following rows (order of rows does not matter). </br>
+
++------------+----------+--------+ </br>
+| Department | Employee | Salary | </br>
++------------+----------+--------+ </br>
+| IT         | Max      | 90000  | </br>
+| IT         | Jim      | 90000  | </br>
+| Sales      | Henry    | 80000  | </br>
++------------+----------+--------+ </br>
+
+Explanation: </br>
+
+Max and Jim both have the highest salary in the IT department and Henry has the highest salary in the Sales department. </br>
+
+*Answer* : https://chengshengblog.netlify.app/post/leetcode-sql-interview-answer/   </br> 

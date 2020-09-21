@@ -121,6 +121,18 @@ END</p>
 <li>We use subquery here to get the rank of the salary with the decreasing order first. </br></li>
 <li>Then we select the <code>distinct</code> salary with the <code>WHERE</code> clause to filter the Nth rank because we want the Nth highest salary. That would be a unique value. </br></li>
 </ul>
+<p><strong>184 Department Highest Salary</strong></p>
+<ul>
+<li>Level: Medium </br></li>
+</ul>
+<p>WITH temp AS ( SELECT e.Name AS emp, e.Salary, e.DepartmentId, d.Name, </br>
+RANK()OVER(PARTITION BY e.DepartmentId ORDER BY e.Salary DESC) rnk </br>
+FROM Employee e </br>
+JOIN Department d </br>
+ON e.DepartmentId = d.Id ) </br></p>
+<p>SELECT Name AS Department, emp AS Employee, Salary </br>
+FROM temp </br>
+WHERE rnk = 1 </br></p>
 
                 </div>
             </section>
@@ -179,7 +191,7 @@ END</p>
                     <div class="post-card-byline-content">
                         <span>Chengsheng Deng</span>
                         <span class="post-card-byline-date"><time datetime="2020-129-09">18 September 2020</time>
-                            <span class="bull">&bull;</span> 2 min read</span>
+                            <span class="bull">&bull;</span> 3 min read</span>
                     </div>
                 </footer>
     
