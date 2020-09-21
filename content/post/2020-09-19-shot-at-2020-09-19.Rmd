@@ -1,5 +1,5 @@
 ---
-title: Shot at 2020-09-19
+title: Shot at Grigg Street
 author: Chengsheng Deng
 date: '2020-09-19'
 slug: shot-at-2020-09-19
@@ -10,7 +10,7 @@ feature_image: ''
 --- 
 
 
-**Following are the photos I shot on 2020-09-19 at Grigg Street. Enjoy Them!**  
+**Following are the photos I shot at Grigg Street. Enjoy Them!**  
 
 ![Boston |  Shot on iPhone X](/post/2020-09-19-shot-at-2020-09-19_files/IMG_2811.JPG){width=600px height=300px}
 
