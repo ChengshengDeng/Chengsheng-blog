@@ -110,13 +110,17 @@ FROM Scores </br></p>
 <ul>
 <li>Level: Medium </br></li>
 </ul>
-<p>CREATE FUNCTION getNthHighestSalary(N INT) RETURNS INT </br>
-BEGIN </br>
-RETURN ( </br>
-SELECT DISTINCT a.Salary FROM (SELECT Salary, DENSE_RANK() OVER(ORDER BY Salary DESC) rnk FROM Employee) a </br>
-WHERE a.rnk = n </br>
-); </br>
-END</p>
+<pre><code>CREATE FUNCTION getNthHighestSalary(N INT) RETURNS INT 
+BEGIN 
+  RETURN ( 
+      SELECT DISTINCT a.Salary 
+      FROM (
+             SELECT Salary, 
+             DENSE_RANK() OVER(ORDER BY Salary DESC) rnk 
+             FROM Employee) a 
+      WHERE a.rnk = n 
+  ); 
+END </code></pre>
 <ul>
 <li>We use subquery here to get the rank of the salary with the decreasing order first. </br></li>
 <li>Then we select the <code>distinct</code> salary with the <code>WHERE</code> clause to filter the Nth rank because we want the Nth highest salary. That would be a unique value. </br></li>
@@ -125,14 +129,18 @@ END</p>
 <ul>
 <li>Level: Medium </br></li>
 </ul>
-<p>WITH temp AS ( SELECT e.Name AS emp, e.Salary, e.DepartmentId, d.Name, </br>
-RANK()OVER(PARTITION BY e.DepartmentId ORDER BY e.Salary DESC) rnk </br>
-FROM Employee e </br>
-JOIN Department d </br>
-ON e.DepartmentId = d.Id ) </br></p>
-<p>SELECT Name AS Department, emp AS Employee, Salary </br>
-FROM temp </br>
-WHERE rnk = 1 </br></p>
+<pre><code>WITH temp AS ( SELECT e.Name AS emp, 
+                      e.Salary, 
+                      e.DepartmentId, 
+                      d.Name,   
+                      RANK() OVER(PARTITION BY e.DepartmentId ORDER BY e.Salary DESC) rnk   
+      FROM Employee e  
+      JOIN Department d  
+      ON e.DepartmentId = d.Id)  
+
+SELECT Name AS Department, emp AS Employee, Salary 
+FROM temp  
+WHERE rnk = 1 </code></pre>
 
                 </div>
             </section>
