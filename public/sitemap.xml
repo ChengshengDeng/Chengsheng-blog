@@ -28,51 +28,6 @@
   </url>
   
   <url>
-    <loc>/tags/job/</loc>
-    <lastmod>2020-09-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/job-hunting/</loc>
-    <lastmod>2020-09-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/leetcode-sql-interview-answer/</loc>
-    <lastmod>2020-09-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/leetcode-sql-interview-question/</loc>
-    <lastmod>2020-09-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/leetcode-sql-interview-questions/</loc>
-    <lastmod>2020-09-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/sql/</loc>
-    <lastmod>2020-09-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/define-yourself/</loc>
-    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/product/</loc>
-    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/launching-questions-in-product-sense/</loc>
-    <lastmod>2020-09-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/some-very-old-shot/</loc>
     <lastmod>2020-09-12T00:00:00+00:00</lastmod>
   </url>
@@ -88,7 +43,7 @@
   </url>
   
   <url>
-    <loc>/post/marketing-questions-in-product-case/</loc>
+    <loc>/tags/product/</loc>
     <lastmod>2020-09-10T00:00:00+00:00</lastmod>
   </url>
   

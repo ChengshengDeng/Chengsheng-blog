@@ -29,70 +29,6 @@ Boston |  Shot on iPhone X
     </item>
     
     <item>
-      <title>Job Hunting </title>
-      <link>/post/job-hunting/</link>
-      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/job-hunting/</guid>
-      <description>In this section, I conclude jobs I applied including time,location, company name, and result. This shows my journey to find a job. Please enjoy!
-  Date Job.Title CompanyName Location Intern.Full.Time Where Result    7.30.2020 Data Analyst Tripalink LA Full Time Handshake   7.30.2020 Data Analyst DesignMuseum Boston, Remote Intern Handshake   7.30.2020 Data Analyst MilkCrate LLC Philadelphia Intern Handshake   7.30.2020 Business Analyst Immunitas,Therapeutics Cambridge Remote Intern Handshake   7.</description>
-    </item>
-    
-    <item>
-      <title>Leetcode SQL Interview Answer </title>
-      <link>/post/leetcode-sql-interview-answer/</link>
-      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/leetcode-sql-interview-answer/</guid>
-      <description>178 Rank Scores
- Level: Medium  SELECT Score,  DENSE_RANK() OVER(ORDER BY Score DESC) ‘Rank’  FROM Scores 
- Please know the difference between DENSE_RANK() and RANK()  177 Nth Highest Salary
- Level: Medium   CREATE FUNCTION getNthHighestSalary(N INT) RETURNS INT BEGIN RETURN ( SELECT DISTINCT a.Salary FROM ( SELECT Salary, DENSE_RANK() OVER(ORDER BY Salary DESC) rnk FROM Employee) a WHERE a.rnk = n ); END   We use subquery here to get the rank of the salary with the decreasing order first.</description>
-    </item>
-    
-    <item>
-      <title>Leetcode SQL Interview Question </title>
-      <link>/post/leetcode-sql-interview-question/</link>
-      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/leetcode-sql-interview-question/</guid>
-      <description>RANK() &amp;amp; Window Function 178 Rank Scores   Level: Medium   Write a SQL query to rank scores. If there is a tie between two scores, both should have the same ranking. Note that after a tie, the next ranking number should be the next consecutive integer value. In other words, there should be no “holes” between ranks. 
-+—-+——-+ | Id | Score | +—-+——-+ | 1 | 3.</description>
-    </item>
-    
-    <item>
-      <title>Leetcode SQL Interview Questions Conclusion</title>
-      <link>/post/leetcode-sql-interview-questions/</link>
-      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/leetcode-sql-interview-questions/</guid>
-      <description>In this section, I conclude the date,times,problems, and key points for the Leetcode SQL problems.It shows my journey to struggle with SQL. Please enjoy visiting!
-  题号 难易度 题目内容 第二次做题时间 做题情况 第三次做题时间 做题情况.1 第四次做题时间 做题情况.2 相似题型.考点 X    176 Easy Second Highest Salary 2020-08-04 思路正确，小细节没注意。 2020-08-18 能做出题目，此题考的频率较高，需要反复练习。    NA  178 Medium Rank Scores 2020-08-04 基本可以解答出题目，需注意DENSE_RANK 和RANK的区别。 可参考1303 关于OVER（PARTITION BY） 的用法 2020-08-18 能够做出题目， 注意命名新column 避免reserved word 的方法。 2020-08-23 能做出题目，充分理解考点 177,178,184, 1077 ，574，1070 ,1112，1164，1174，1285,1355考点类似，都跟RANK 有关。 NA  175 Easy Combine Two Table 2020-08-04 可以解答出题目，注意是JOIN 还是LEFT JOIN 2020-08-23 能做出题目，题目本身较为基础。   175，570 , 580，1158，1164，1421考点是区分JOIN 还是LEFT JOIN NA  181 Easy Employees Earning More Than Their Managers 2020-08-04 可以做出题目，注意一个表的时候可以JOIN自身 2020-08-27 能做出题目，题目本身较为基础。   181,612,614，1126，1149, 考点是SELF JOIN NA  182 Easy Duplicate Emails 2020-08-04 可以做出题目，注意运用Group BY 和 COUNT 当遇到筛选数量的时候 2020-08-27 能做出题目，题目本身较为基础。   考点是GROUPBY 和 COUNT 基础考点。 182，511 ,585，596，602，1045，1132都有GROUP BY 可一起复习。 (585,602有相似点可一起复习） NA  183 Easy Customer Who Never Order 2020-08-05 能做出题目，对JOIN 的运用没什么问题。      NA  196 Easy Delete Duplicate Emails 2020-08-05 没掌握思路，还得反复练习      NA  197 Easy Rising Temperature 2020-08-05 可以做出题目。 遇到一个表，行之间需要比较的时候，可以用JOIN      NA  511 Easy Game Play Analysis I 2020-08-05 想法过于复杂，没做出来，实际上一行code就可以解决 2020-08-09 仍然有错误，注意first_login date 可以用 min(date) 来筛选。 2020-08-23 能做出题目， 基本没什么问题。 考点较为基础， GROUP BY 后取最小MIN NA  577 Easy Employee Bonus 2020-08-05 可以做出题目。题目考点就是LEFT JOIN 然后筛选条件。      NA  584 Easy Find Customer Referee 2020-08-07 能够做出题目。注意条件筛选和NULL      NA  586 Easy Customer Placing the Largest Number of Orders 2020-08-07 能做出题目，注意排序      NA  595 Easy Big Countries 2020-08-07 简单      NA  596 Easy Classes More Than 5 Students 2020-08-07 能做出题目，但是要注意重复的选项只能算一次。 DISTINCT function 2020-08-30 能做出题目, 题目本身比较基础，注意边界条件。   考点是GROUPBY 和 COUNT 基础考点。 182，511 ,585, 596，602，1045，1132都有GROUP BY 可一起复习。(585,602有相似点可一起复习） NA  1075 Easy Project Employee I 2020-08-07 题目较容易，能做出题目。 注意筛选条件就好。      NA  1076 Easy Project Employee II 2020-08-09 不能做出题目，需要注意RANK function ，以及subquery      NA  1082 Easy Sales Analysis I 2020-08-09 能做出题目，题目解法与1076 类似，可以参照。      NA  1083 Easy Sales Analysis II 2020-08-09 不能做出题目，没有思路。 要注意运用subquery 进行条件筛选      NA  1084 Easy Sales Analysis III 2020-08-09 不能做出题目，没有思路。题目与1083 类似，都是条件筛选，也需要用subquery， 但是可以不用JOIN。      NA  1113 Easy Reported Posts 2020-08-09 能做出题目。 运用到的function 就是COUNT(), DISTINCT(), 还有GROUP BY 和 WHERE 筛选。      NA  1141 Easy Users Activity for the Past 30 Days I 2020-08-11 能做出题目，注意条件筛选，运用到的function 有GROUPBY(), DISTINCT() 和COUNT（），DATEDIFF()      NA  1142 Easy Users Activity for the Past 30 Days II 2020-08-11 此题与1141类似，可一起复习，注意不用GROUPBY      NA  1148 Easy Article Views I 2020-08-12 能做出题目，较简单。 运用到的function WHERE 和 DISTINCT      NA  1173 Easy Immediate Food Delivery I 2020-08-12 能做出题目，注意计算就好。 Subquery      NA  1211 Easy Queries Quality and Percentage 2020-08-12 还是稍微有点问题，要注意运用CASE WHEN… ELSE FUNCTION 列出次数后再用SUM 算和      NA  1251 Easy Average Selling Price 2020-08-12 能够做出题目,此题难度一般,需要注意JOIN 后ON 有两个条件.</description>
-    </item>
-    
-    <item>
-      <title>Define Yourself </title>
-      <link>/post/define-yourself/</link>
-      <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/define-yourself/</guid>
-      <description>Tell Me a Bit About Yourself   This is an opportunity to connect your experience with the job you’ re interviewing for 
- This is not a time to just read off your resume or blab about your personal life 
- Pick out a few of the key things you ‘d like your interviewer to know about you. 
-  Example Answer  Interviewer: Tell me a bit about yourself</description>
-    </item>
-    
-    <item>
-      <title>Launching Questions in Product Case </title>
-      <link>/post/launching-questions-in-product-sense/</link>
-      <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/launching-questions-in-product-sense/</guid>
-      <description>Launching Question  Launching products is one of the most important duties of a PM, so it makes sense that interviewers would ask how you would do this. 
-Approach   The Product: Discuss the vision of the product, along with its strengths, weaknesses, and risks. What does the product ultimately hope to achieve? What is its target market? What are the things that would worry you? Who is it competing against and how is it positioned against those?</description>
-    </item>
-    
-    <item>
       <title>Some Very Old Shots </title>
       <link>/post/some-very-old-shot/</link>
       <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
@@ -135,18 +71,6 @@ Boston Street |  Shot on iPhone X
  Boston University |  Shot on iPhone X
  Boston Harbor | Shot on Samsung Note 10 Plus
  Green Line |  Shot on iPhone X</description>
-    </item>
-    
-    <item>
-      <title>Marketing Questions in Product Case</title>
-      <link>/post/marketing-questions-in-product-case/</link>
-      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/marketing-questions-in-product-case/</guid>
-      <description>Marketing questions are about product positioning, customers, and handling competition.  
-Approach:  Understand the Company: What are the company’s goals? What is its mission? What are its strengths and weaknesses? What threatens it? 
- Understand the Competition: Break down the competition into segments. Who competes and in what market?(竞争对手是谁) How do they position themselves? How entrenched are they?(怎么巩固自己的位置) What are their strengths and weaknesses? 
- Understand the Customers: Who are your customers?</description>
     </item>
     
     <item>
