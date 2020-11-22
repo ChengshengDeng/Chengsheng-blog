@@ -1,5 +1,5 @@
 ---
-title: Shot On iPhone12ProMax
+title: Shot On iPhone12ProMax
 author: Chengsheng Deng
 date: '2020-11-22'
 slug: shot-on-iphone12-promax
